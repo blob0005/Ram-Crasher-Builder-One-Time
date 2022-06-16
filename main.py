@@ -1,7 +1,7 @@
 try:
     import os
     from os import system
-    system("title " + "Ram Crasher Builder")
+    system("title " + "Ram Crasher Builder,   Made By blob#0005,   Github: github.com/blob0005")
 except:
     pass
 print("Pc Crasher Virus Creator")
